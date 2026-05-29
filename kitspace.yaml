@@ -1,5 +1,5 @@
 summary: STM32F765 gimbal controller PCB with isolated RS-485/RS-232
-site: https://tjhxpcb.com/pcb-assembly/
+site: https://tjhxpcb.com/blog/gimbal-controller-pcb/
 color: green
 bom: Gimbal Controller Bom.xls
 gerbers: gerber.zip
